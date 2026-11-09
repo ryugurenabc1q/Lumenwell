@@ -1,0 +1,1 @@
+import{t as e}from"./index-D_ApufOz.js";var t=e();function n(){return(0,t.jsx)(`main`,{className:`game-shell`,children:(0,t.jsx)(`iframe`,{className:`game-frame`,title:`Lumenwell`,src:`/lumenwell.html`})})}export{n as component};
